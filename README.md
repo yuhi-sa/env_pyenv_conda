@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/yuhi-sa/env_pyenv_conda)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yuhi-sa/env_pyenv_conda)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yuhi-sa/env_pyenv_conda)
+![GitHub top language](https://img.shields.io/github/languages/top/yuhi-sa/env_pyenv_conda)
+![GitHub language count](https://img.shields.io/github/languages/count/yuhi-sa/env_pyenv_conda)
 # env_pyenv_conda
 pyenv+minicondaのpython環境
 
